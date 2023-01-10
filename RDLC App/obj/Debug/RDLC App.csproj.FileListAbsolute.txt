@@ -1,0 +1,71 @@
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\RDLC App.exe.config
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\RDLC App.exe
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\RDLC App.pdb
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.csproj.AssemblyReference.cache
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.csproj.SuggestedBindingRedirects.cache
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC_App.Form1.resources
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC_App.Properties.Resources.resources
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.csproj.GenerateResource.cache
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.csproj.CoreCompileInputs.cache
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.exe
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.pdb
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\EnvDTE.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Development Projects\C#\RDLC App\RDLC App\obj\Debug\RDLC App.csproj.CopyComplete

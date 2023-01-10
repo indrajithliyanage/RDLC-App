@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDLC App", "RDLC App\RDLC App.csproj", "{44101F33-285A-41B4-8E3E-CD5EDA3ED0FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44101F33-285A-41B4-8E3E-CD5EDA3ED0FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44101F33-285A-41B4-8E3E-CD5EDA3ED0FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44101F33-285A-41B4-8E3E-CD5EDA3ED0FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44101F33-285A-41B4-8E3E-CD5EDA3ED0FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9AE154B-09FF-4194-8117-C86EA6D5A7D4}
+	EndGlobalSection
+EndGlobal
